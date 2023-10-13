@@ -1,0 +1,5 @@
+name1 = input()
+name2 = input()
+name3 = input()
+name4 = input()
+print(name2, name3, name4, sep=name1)
