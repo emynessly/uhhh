@@ -1,0 +1,8 @@
+n = int(input())
+m = int(input())
+k = int(input())
+a = (max(n, m, k))
+b = (min(n, m, k))
+print(a)
+print((n+m+k)-(a+b))
+print(b)

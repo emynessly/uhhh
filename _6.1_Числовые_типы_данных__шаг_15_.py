@@ -1,0 +1,6 @@
+n = float(input())
+m = float(input())
+k = float(input())
+l = float(input())
+p = float(input())
+print(abs(n)+abs(m)+abs(k)+abs(l)+abs(p))
